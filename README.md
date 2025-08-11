@@ -1,2 +1,2 @@
 # Capstone-Project
-Made a project using Python, EDA, TABLEAU, SQL and ML
+Made a group project using Python, EDA, SQL, Tableau and ML
